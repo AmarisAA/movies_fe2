@@ -1,5 +1,4 @@
 import axios from 'axios';
-// Change the API_URL to the correct location of the backend API before deploying the app
 export const API_URL = 'https://amaris.pythonanywhere.com';
 
 
